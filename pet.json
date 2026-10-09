@@ -1,0 +1,12 @@
+{
+  "pet": "Wifi Butterfly",
+  "kind": "pet-app",
+  "owner": "Astra",
+  "sprite": "sprite.json",
+  "job": "Placeholder. What it does is not decided yet.",
+  "runs_on": "Any modern browser (index.html).",
+  "entry": "index.html",
+  "status": "hatching",
+  "hub": { "topic": "pet-app", "home": "README.md" },
+  "built_with": "Claude Haiku 5.5 (claude-haiku-5-5), 2026-10-09"
+}
