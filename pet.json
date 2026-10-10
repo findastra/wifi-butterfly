@@ -6,7 +6,7 @@
   "icon": "icon-20261009.png",
   "asset_date": "20261009",
   "job": "Placeholder: a monarch butterfly pet. What it does is not decided yet.",
-  "runs_on": "Any modern browser (index.html).",
+  "runs_on": "Any modern browser (wifi-butterfly-20261009.html), no install or build step.",
   "entry": "wifi-butterfly-20261009.html",
   "preview": "wifi-butterfly-20261009.html",
   "status": "hatching",
