@@ -2,16 +2,21 @@
   "pet": "Wifi Butterfly",
   "kind": "pet-app",
   "owner": "Astra",
-  "sprite": "sprite.json",
-  "job": "Placeholder. What it does is not decided yet.",
+  "sprite": "sprite-20261009.json",
+  "icon": "icon-20261009.png",
+  "asset_date": "20261009",
+  "job": "Placeholder: a monarch butterfly pet. What it does is not decided yet.",
   "runs_on": "Any modern browser (index.html).",
-  "entry": "index.html",
+  "entry": "wifi-butterfly-20261009.html",
+  "preview": "wifi-butterfly-20261009.html",
   "status": "hatching",
+  "visibility": "private",
+  "implementation_status": "Seeded: pet art (nine mood frames, draft), app icon and a placeholder app with a pet well. The job is not decided; nothing else is built.",
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
     "repository": "https://github.com/findastra/astras-pet-apps"
   },
-  "built_with": "Claude Haiku 5.5 (claude-haiku-5-5), 2026-10-09; brought up to the pet file rules with Claude Opus 5.5 (claude-opus-5-5), 2026-10-09",
+  "built_with": "Claude Haiku 5.5 (claude-haiku-5-5), 2026-10-09; brought up to the pet file rules with Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; pet art and app icon generated with Claude Opus 5.5 (claude-opus-5-5), 2026-10-09",
   "updated": "2026-10-09"
 }

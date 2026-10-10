@@ -1,0 +1,42 @@
+{
+  "id": "wifi-butterfly",
+  "pet": "Wifi Butterfly",
+  "format": "png-mood-frames",
+  "size": [
+    256,
+    256
+  ],
+  "moods": [
+    "idle",
+    "blink",
+    "happy",
+    "curious",
+    "worried",
+    "sad",
+    "sick",
+    "alarmed",
+    "sleep"
+  ],
+  "frames": {
+    "idle": "art/idle-20261009.png",
+    "blink": "art/blink-20261009.png",
+    "happy": "art/happy-20261009.png",
+    "curious": "art/curious-20261009.png",
+    "worried": "art/worried-20261009.png",
+    "sad": "art/sad-20261009.png",
+    "sick": "art/sick-20261009.png",
+    "alarmed": "art/alarmed-20261009.png",
+    "sleep": "art/sleep-20261009.png"
+  },
+  "icon": {
+    "png": "icon-20261009.png",
+    "ico": "icon-20261009.ico"
+  },
+  "source": {
+    "sheet": "art/mood-sheet-20261009.png",
+    "generator": "astras-pet-apps scripts/generate-pets.mjs and build-frames.mjs (shared style, shared mood stickers), gpt-image-2 via image-bridge",
+    "made_on": "2026-10-09",
+    "note": "DRAFT until Astra approves the art. A monarch: neon flame-orange wings, black veins curving into wifi arcs, white-dotted black borders, black body.",
+    "prompt": "Monarch butterfly, see docs/plan-20261009.md for the exact prompt line to add to the Cage's PETS."
+  }
+}
