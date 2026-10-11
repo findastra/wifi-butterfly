@@ -1,0 +1,22 @@
+{
+  "pet": "wifi-butterfly",
+  "creator": "Astra",
+  "assistant": "OpenAI Codex (GPT-6)",
+  "date": "2026-10-11",
+  "status": "draft",
+  "desktop_scale": 0.7,
+  "sparkles": false,
+  "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
+  "art_files": [
+    "desktop-art/wifi-butterfly/idle-20261011.png",
+    "desktop-art/wifi-butterfly/blink-20261011.png",
+    "desktop-art/wifi-butterfly/happy-20261011.png",
+    "desktop-art/wifi-butterfly/curious-20261011.png",
+    "desktop-art/wifi-butterfly/worried-20261011.png",
+    "desktop-art/wifi-butterfly/sad-20261011.png",
+    "desktop-art/wifi-butterfly/sick-20261011.png",
+    "desktop-art/wifi-butterfly/alarmed-20261011.png",
+    "desktop-art/wifi-butterfly/sleep-20261011.png"
+  ],
+  "notes": "Smaller monarch with slim dark body and translucent wings."
+}
