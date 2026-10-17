@@ -34,7 +34,7 @@
   },
   "source": {
     "sheet": "art/mood-sheet-20261009.png",
-    "generator": "astras-pet-apps scripts/generate-pets.mjs and build-frames.mjs (shared style, shared mood stickers), gpt-image-2 via image-bridge",
+    "generator": "astras-pet-os scripts/generate-pets.mjs and build-frames.mjs (shared style, shared mood stickers), gpt-image-2 via image-bridge",
     "made_on": "2026-10-09",
     "note": "DRAFT until Astra approves the art. A monarch: neon flame-orange wings, black veins curving into wifi arcs, white-dotted black borders, black body.",
     "prompt": "Monarch butterfly, see docs/plan-20261009.md for the exact prompt line to add to the Cage's PETS."

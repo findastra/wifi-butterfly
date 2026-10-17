@@ -22,7 +22,7 @@ Open `wifi-butterfly-20261009.html` in any modern browser. It shows the pet in i
 
 - No job yet, so there is no behaviour, data or storage.
 - The pet art is a **draft** until Astra approves it. Frames are in `art/` and listed in `sprite-20261009.json`.
-- Not in the Cage yet. Registering it is [card 008](https://github.com/findastra/astras-pet-apps/blob/main/handoffs/008-farmer-register-new-placeholders.md) for the Friendly Farmer. The art already exists, so it doesn't need generating again: see [docs/plan-20261009.md](docs/plan-20261009.md).
-- Part of Astra's Pet Apps. See the [pet file rules](https://github.com/findastra/astras-pet-apps/blob/main/PET-FILES.md) and [pet words](https://github.com/findastra/astras-pet-apps/blob/main/PET-WORDS.md).
+- Not in the Cage yet. Registering it is [card 008](https://github.com/findastra/astras-pet-os/blob/main/handoffs/008-farmer-register-new-placeholders.md) for the Friendly Farmer. The art already exists, so it doesn't need generating again: see [docs/plan-20261009.md](docs/plan-20261009.md).
+- Part of Astra's PetOS. See the [pet file rules](https://github.com/findastra/astras-pet-os/blob/main/PET-FILES.md) and [pet words](https://github.com/findastra/astras-pet-os/blob/main/PET-WORDS.md).
 
 Desktop appearance draft updated 2026-10-11: see [desktop details](desktop-pet-20261011.json). This changes the desktop pet, not application features.
