@@ -6,6 +6,14 @@
 
 Wifi Butterfly is a monarch butterfly pet. It's seeded: it has its pet, nine moods, an app icon and a placeholder app. What it does is not decided yet (see [card 001](handoffs/001-any-decide-the-job.md)).
 
+## Pictures
+
+![Wifi Butterfly's program page: the monarch butterfly in its pet well with the nine-mood picker; the app is a placeholder](docs/images/wifi-butterfly-program-page-20261017.png)
+
+Wifi Butterfly's program page (`wifi-butterfly-20261009.html`) on `main`. What it does is not decided yet.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## How to run it
 
 Open `wifi-butterfly-20261009.html` in any modern browser. It shows the pet in its pet well with a mood picker, and nothing else. `index.html` is the older one-line placeholder.
